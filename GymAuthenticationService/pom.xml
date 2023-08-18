@@ -87,7 +87,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>${project.groupId}/gymAuthentication-service:${project.version}</name>
+						<name>${project.groupId}/gymauthentication:${project.version}</name>
 					</image>
 				</configuration>
 				<executions>
